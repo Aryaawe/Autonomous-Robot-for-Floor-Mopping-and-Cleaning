@@ -82,4 +82,4 @@ This working flow is also illustrated in the system flow diagram in the report
 
 ## 📸 Project Preview
 ```md
-![Robot Image](ROBOT.png)
+![Robot Image](Autonomous Robot for floor cleaning and Mopping/images/ROBOT.png)
