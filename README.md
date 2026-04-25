@@ -58,7 +58,7 @@ The robot consists of the following major modules:
 6. Optional pump dispenses controlled water for wet mopping  
 7. Robot continues operation until stopped or battery drains  
 
-This working flow is also illustrated in the system flow diagram in the report (see page 12) :contentReference[oaicite:0]{index=0}  
+This working flow is also illustrated in the system flow diagram in the report 
 
 ---
 
@@ -77,10 +77,9 @@ This working flow is also illustrated in the system flow diagram in the report (
 - Effective cleaning on smooth surfaces  
 - Reliable wireless control performance  
 
-As observed during testing (page 23–24), the robot achieved stable navigation and consistent mopping performance :contentReference[oaicite:1]{index=1}  
 
 ---
 
 ## 📸 Project Preview
 ```md
-![Robot Image](ROBOT.jpg)
+![Robot Image](ROBOT.png)
